@@ -1,5 +1,5 @@
 # LightEmAll
-LightEmAll is a recreation of the classic game style of connecting all of the squares on a grid by rotating them. The player is presented with a grid of tiles, and a central powersource. The goal is to rotate the tiles in such a way that the light reaches every single tile. 
+LightEmAll is a recreation of a classic game style. The player is presented with a grid of tiles, and a central powersource. The goal is to rotate the tiles in such a way that the light reaches every single tile. 
 
 ### Setup
 This recreation is customizable in the size of the game. When creating an instance of the class LightEmAll, simply input the width and a height you desire. Each game will be random, as long as you input a new Random() object as the third input in the constructor. Download the src file, and make sure to set up the run configuration with the project name, and "Main class" as "tester.Main". Click run with the correct configuration, and the game should pop up in a new window.
